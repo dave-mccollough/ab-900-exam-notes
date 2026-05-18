@@ -1,3 +1,12 @@
 # AB-900 Exam Notes
 
 Exam notes for Microsoft AB-900 Exam
+
+## Resources
+
+- [Udemy Course](https://www.udemy.com/course/ab-900-exam-prep-microsoft-copilot-and-agent-administration)
+- [Microsoft Learn](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/ab-900)
+
+## Sections
+
+- [Understand the Microsoft 365 security principles](01-microsoft-security-principles)
