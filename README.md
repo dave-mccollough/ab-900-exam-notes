@@ -10,4 +10,5 @@ Exam notes for Microsoft AB-900 Exam
 ## Sections
 
 - [Understand the Microsoft 365 security principles](01-microsoft-security-principles)
-- [Identify the core objects of Microsoft 365 services](02-core-objects-of-microsoft-365 )
+- [Identify the core objects of Microsoft 365 services](02-core-objects-of-microsoft-365)
+- [Understand Microsoft Purview]()
