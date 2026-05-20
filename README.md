@@ -17,3 +17,4 @@ Exam notes for Microsoft AB-900 Exam
 - [Identify the core security features of Microsoft 365 services](06-core-m365-features)
 - [Identify and monitor oversharing in SharePoint and Microsoft 365](07-sharepoint-oversharing)
 - [Understand features and capabilities of Copilot and agents](08-copilot-agent-features)
+- [Understand built-in agents and data security implications of Copilot](09-built-in-agents-data-security)
