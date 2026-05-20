@@ -9,10 +9,13 @@
 
 - Alerting
   - When content matches policy conditions, alerting can be configured
-  - Number of times sensitive information is shared
-- You can customize the alerting
-    - Popup or email verbiag
+- Alerting config
+  - Number of times sensitive information is shared at one time
+  - You can customize the alerting
+      - Popup or email 
+  - Send incident reports via email
+  - Send alerts if DLP rules match
 - Access and Override settings
   - Determine who can override the settings
   - Audit or restrict activities on devices
-  - 
+
